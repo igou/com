@@ -7,7 +7,7 @@ extern eat_bool clear_66;
 extern eat_bool at_error;
 extern eat_bool network_error;
 extern eat_bool atd_answer_flag;
-//ggggggggggggg
+//gggggggggggggdddddddddddd
 //#define __ABCDEF__
 typedef  enum{   
     POWER_ON,  //开机准备中
